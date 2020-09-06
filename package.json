@@ -1,0 +1,23 @@
+{
+  "name": "whatitwas",
+  "version": "1.0.0",
+  "description": "Citizens of the internet, unite! / Painless polling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meyian/whatitwas.git"
+  },
+  "keywords": [
+    "social",
+    "internet"
+  ],
+  "author": "Hassan Abudu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meyian/whatitwas/issues"
+  },
+  "homepage": "https://github.com/meyian/whatitwas#readme"
+}
